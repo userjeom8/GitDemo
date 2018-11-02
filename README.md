@@ -1,5 +1,4 @@
 # GitDemo
 GitDemo
 
-##detail
-Hello from Jihye
+hello world!
